@@ -40,3 +40,27 @@ html{
     width: 86%;
     background-color: #EDF8F7 ;
 }
+
+
+#menu{
+}
+
+#menu_small, #menu_button{
+    background-color: #EDF8F7;
+    padding: 1%;
+}
+
+#menu_small{
+    width:100%; 
+}
+
+
+#home-content{
+    height:auto;
+    margin-bottom: 80pt;
+    margin-left:7%;
+    margin-right: 7%;
+    padding: 0;
+    padding-top: 90pt;
+    font-size: 11pt;
+}
