@@ -91,18 +91,17 @@ a:hover{
 
 #image_home{
     padding: 15pt;
-  
-  }
-
-
+}
 #menu_large a:hover{
     font-weight: bold;
-    border-bottom: underline;
+    border-bottom: dotted 2pt;
+    padding-bottom: .2pt;
 }
 
 #curr_menu{
     font-weight: bold;
     text-decoration: underline;
+    text-decoration-style: solid;
 }
 
 #menu_small a:hover, #menu_small .curr_menu{
