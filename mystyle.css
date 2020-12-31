@@ -10,7 +10,6 @@ body {
 html{
     height:100%
 }
-
 #footer{
     background-color: #FFEBCD;
     position: fixed;
@@ -23,6 +22,7 @@ html{
 }
 
 
+
 #footer, #header, #menu{
     font-family: 'Georgia', serif;
 }
@@ -33,7 +33,6 @@ html{
     margin:0%;
 }
 
-
 #header{
     position:fixed;
     top: 0;
@@ -41,7 +40,7 @@ html{
     margin-right: 7%;
     width: 86%;
     background-color: #FFEBCD ;
-
+}
 
 #menu{
 }
@@ -63,7 +62,7 @@ html{
     margin-right: 7%;
     padding: 0;
     padding-top: 90pt;
-    font-size: 15pt;
+    font-size: 11pt;
 }
 
 
@@ -74,6 +73,8 @@ html{
 #menu_large{
     padding-bottom: 1%;
 }
+
+
 
 a{
     text-decoration:none;
