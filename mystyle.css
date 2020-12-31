@@ -32,9 +32,11 @@ html{
 }
 
 
-
-/* Applies to all elements with <... class="someclass"> specified. */
-.someclass { color: red; }
-
-/* Applies to the element with <... id="someid"> specified. */
-#someid { color: green; }
+#header{
+    position:fixed;
+    top: 0;
+    margin-left: 7%;
+    margin-right: 7%;
+    width: 86%;
+    background-color: #EDF8F7 ;
+}
