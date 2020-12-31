@@ -64,3 +64,57 @@ html{
     padding-top: 90pt;
     font-size: 11pt;
 }
+
+
+#menu_large a{
+    margin: 3%;
+}
+
+#menu_large{
+    padding-bottom: 1%;
+}
+
+a{
+    text-decoration:none;
+    border-bottom: dotted 1pt;
+    padding-bottom: .2pt;
+}
+
+#menu_large a, #menu_small a{
+    text-decoration: none;
+    border-bottom: none;
+}
+
+a:hover{
+    font-weight: bold;
+}
+
+#image_home{
+    padding: 15pt;
+  
+  }
+
+
+#menu_large a:hover{
+    font-weight: bold;
+    border-bottom: dotted 2pt;
+    padding-bottom: .2pt;
+}
+
+#curr_menu{
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+#menu_small a:hover, #menu_small .curr_menu{
+    font-weight: bold;
+}
+
+p.title_content{
+    font-weight: bold;
+}
+
+.year_output ul li, .act_type ul li, {
+    margin-bottom:3%;
+}
