@@ -1,7 +1,7 @@
 
 body {
   margin: 25px;
-  background-color: #FFEBCD;
+  background-color: #fffff0	;
   font-family: Garamond, serif;
   font-size: 25px;
 }
@@ -10,6 +10,7 @@ body {
 html{
     height:100%
 }
+
 #footer{
     background-color: #FFEBCD;
     position: fixed;
@@ -17,9 +18,10 @@ html{
     padding: 1%;
     margin-left: 0%;
     margin-right: 0%;
+    width: 86%;
     height:auto;
-    width:100%;
 }
+
 
 #footer, #header, #menu{
     font-family: 'Georgia', serif;
@@ -35,11 +37,10 @@ html{
 #header{
     position:fixed;
     top: 0;
-    margin-left: 0%;
-    margin-right: 0%;
+    margin-left: 7%;
+    margin-right: 7%;
+    width: 86%;
     background-color: #FFEBCD ;
-    width:100%;
-}
 
 
 #menu{
