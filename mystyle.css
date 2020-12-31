@@ -72,7 +72,7 @@ html{
 }
 
 a{
-    text-decoration:none;
+    text-decoration:underline;
     border-bottom: dotted 1pt;
     padding-bottom: .2pt;
 }
