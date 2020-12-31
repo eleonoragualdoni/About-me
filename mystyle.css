@@ -1,5 +1,4 @@
-/* Applies to the entire body of the HTML document (except where overridden by more specific
-selectors). */
+
 body {
   margin: 25px;
   background-color: rgb(240,240,240);
@@ -11,19 +10,12 @@ body {
 h1 {
   font-size: 28px;
   font-weight: normal;
-  font-family: Lucida Console, monospace;
-  background-color: #F7F7F7;
+  font-family: Georgia, serif;
+  background-color: #74992e;
   margin-top: 5px;
 }
 
 
-h2 {
-  font-size: 23px;
-  font-weight: normal;
-  font-family: Lucida Console, monospace;
-  background-color: #F7F7F7;
-  margin-top: 5px;
-}
 
 /* Applies to all elements with <... class="someclass"> specified. */
 .someclass { color: red; }
