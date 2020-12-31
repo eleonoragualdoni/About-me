@@ -98,7 +98,7 @@ a:hover{
 #curr_menu{
     font-weight: bold;
     text-decoration: underline;
-    text-decoration-style: dotted;
+    text-decoration-style: underline;
 }
 
 #menu_small a:hover, #menu_small .curr_menu{
