@@ -98,7 +98,6 @@ a:hover{
 #curr_menu{
     font-weight: bold;
     text-decoration: underline;
-    text-decoration-style: solid;
 }
 
 #menu_small a:hover, #menu_small .curr_menu{
