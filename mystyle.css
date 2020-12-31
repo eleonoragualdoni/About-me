@@ -76,7 +76,7 @@ html{
 }
 
 a{
-    text-decoration:underline;
+    text-decoration:none;
     padding-bottom: .2pt;
 }
 
@@ -97,8 +97,7 @@ a:hover{
 
 #menu_large a:hover{
     font-weight: bold;
-    border-bottom: dotted 2pt;
-    padding-bottom: .2pt;
+    border-bottom: underline;
 }
 
 #curr_menu{
