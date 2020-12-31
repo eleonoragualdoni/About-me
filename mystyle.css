@@ -78,7 +78,7 @@ a{
 }
 
 #menu_large a, #menu_small a{
-    text-decoration: none;
+    text-decoration: underline;
     border-bottom: none;
 }
 
@@ -98,7 +98,7 @@ a:hover{
 #curr_menu{
     font-weight: bold;
     text-decoration: underline;
-    text-decoration-style: underline;
+    text-decoration-style: solid;
 }
 
 #menu_small a:hover, #menu_small .curr_menu{
