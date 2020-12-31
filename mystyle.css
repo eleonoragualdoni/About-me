@@ -16,6 +16,15 @@ h1 {
   margin-top: 5px;
 }
 
+
+h2 {
+  font-size: 23px;
+  font-weight: normal;
+  font-family: Lucida Console, monospace;
+  background-color: #F7F7F7;
+  margin-top: 5px;
+}
+
 /* Applies to all elements with <... class="someclass"> specified. */
 .someclass { color: red; }
 
