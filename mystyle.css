@@ -76,7 +76,7 @@ html{
 
 a{
     text-decoration:none;
-    border-bottom: dotted 1pt;
+    <!-- border-bottom: dotted 1pt; !-->
     padding-bottom: .2pt;
 }
 
