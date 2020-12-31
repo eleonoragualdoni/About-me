@@ -15,8 +15,8 @@ html{
     position: fixed;
     bottom: 0;
     padding: 1%;
-    margin-left: 7%;
-    margin-right: 7%;
+    margin-left: 0%;
+    margin-right: 0%;
     width: 86%;
     height:auto;
 }
@@ -35,8 +35,8 @@ html{
 #header{
     position:fixed;
     top: 0;
-    margin-left: 7%;
-    margin-right: 7%;
+    margin-left: 0%;
+    margin-right: 0%;
     width: 86%;
     background-color: #FFEBCD ;
 }
