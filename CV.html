@@ -55,8 +55,24 @@
         </div>     
 
     </div>
+
   
+<script>
+	function dropdown(dir) {
+		var x = document.getElementById("menu_small");
+		if (x.className.indexOf("w3-show") == -1) {
+		    x.className += " w3-show";
+		} else { 
+		    x.className = x.className.replace(" w3-show", "");
+		}
+		if (dir == "down") {
+		    document.getElementById("menu_button").style.display = "none";
+		} else {
+		    document.getElementById("menu_button").style.display = "block";
+		}             
+	}
 </script>
+
 
 </body>
 </html>
