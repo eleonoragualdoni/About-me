@@ -1,7 +1,7 @@
 
 body {
   margin: 25px;
-  background-color: #ffe4c4;
+  background-color: #FFEBCD;
   font-family: Garamond, serif;
   font-size: 25px;
 }
@@ -17,7 +17,6 @@ html{
     padding: 1%;
     margin-left: 0%;
     margin-right: 0%;
-    width: 86%;
     height:auto;
 }
 
@@ -37,7 +36,6 @@ html{
     top: 0;
     margin-left: 0%;
     margin-right: 0%;
-    width: 86%;
     background-color: #FFEBCD ;
 }
 
@@ -62,7 +60,7 @@ html{
     margin-right: 7%;
     padding: 0;
     padding-top: 90pt;
-    font-size: 18pt;
+    font-size: 15pt;
 }
 
 
