@@ -18,6 +18,7 @@ html{
     margin-left: 0%;
     margin-right: 0%;
     height:auto;
+    width:100%;
 }
 
 #footer, #header, #menu{
@@ -37,6 +38,7 @@ html{
     margin-left: 0%;
     margin-right: 0%;
     background-color: #FFEBCD ;
+    width:100%;
 }
 
 
