@@ -12,7 +12,7 @@ html{
 }
 #footer{
     background-color: #FFEBCD;
-    position: fixed;
+    position: static;
     bottom: 0;
     padding: 1%;
     margin-left: 7%;
@@ -31,7 +31,7 @@ html{
     margin:0%;
 }
 #header{
-    position:fixed;
+    position:static;
     top: 0;
     margin-left: 7%;
     margin-right: 7%;
