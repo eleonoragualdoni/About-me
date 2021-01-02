@@ -73,7 +73,7 @@ html{
 
 a{
     text-decoration:underline;
-    border-bottom: dotted 1pt;
+    border-bottom: none;
     padding-bottom: .2pt;
 }
 
