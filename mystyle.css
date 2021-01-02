@@ -99,6 +99,7 @@ a:hover{
 #curr_menu{
     font-weight: bold;
     text-decoration: underline;
+    padding-bottom: .2pt;
 }
 
 #menu_small a:hover, #menu_small .curr_menu{
