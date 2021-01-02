@@ -101,6 +101,7 @@ a:hover{
 
 #menu_small a:hover, #menu_small .curr_menu{
     font-weight: bold;
+    padding-bottom: .2pt;
 }
 
 p.title_content{
