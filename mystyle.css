@@ -74,7 +74,6 @@ html{
 a{
     text-decoration:underline;
     border-bottom: none;
-    padding-bottom: .2pt;
 }
 
 #menu_large a, #menu_small a{
