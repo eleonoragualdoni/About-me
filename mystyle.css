@@ -128,3 +128,12 @@ p.title_content{
 }
 
 
+
+<style>
+
+figcaption {
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+</style>
