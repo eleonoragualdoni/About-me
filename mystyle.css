@@ -126,3 +126,12 @@ p.title_content{
 .year_output ul li, .act_type ul li, {
     margin-bottom:3%;
 }
+
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
