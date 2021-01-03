@@ -104,6 +104,7 @@ a:hover{
     font-weight: bold;
     text-decoration: underline;
     padding-bottom: .2pt;
+    color:#FF7F50;
 }
 
 #menu_small a:hover, #menu_small .curr_menu{
