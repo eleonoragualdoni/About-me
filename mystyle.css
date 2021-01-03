@@ -1,3 +1,15 @@
+<head>
+<style>
+
+figcaption {
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+</style>
+</head>
+
+
 body {
   margin: 25px;
   background-color: #fffff0;
@@ -127,13 +139,3 @@ p.title_content{
     margin-bottom:3%;
 }
 
-
-
-<style>
-
-figcaption {
-  font-style: italic;
-  padding: 2px;
-  text-align: center;
-}
-</style>
