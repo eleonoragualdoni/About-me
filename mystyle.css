@@ -5,6 +5,14 @@ body {
   font-size: 25px;
 }
 
+h1 {
+  font-family: Garamond, serif;
+}
+
+h2 {
+  font-family: Garamond, serif;
+}
+
 
 html{
     height:100%
