@@ -5,14 +5,16 @@ body {
   font-size: 25px;
 }
 
-#h3 {
-  font-family: Garamond, serif;
-}
 
 
 html{
     height:100%
 }
+
+#h3 {
+  font-family: Garamond, serif;
+}
+
 #footer{
     background-color: #FFEBCD;
     position: sticky;
