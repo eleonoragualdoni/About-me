@@ -346,6 +346,7 @@ button {
   border-radius: 0;
 }
 
+
 button:focus:not(:focus-visible) {
   outline: 0;
 }
@@ -596,7 +597,7 @@ progress {
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -10970,3 +10971,4 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
